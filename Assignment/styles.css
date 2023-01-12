@@ -1,0 +1,56 @@
+/* header function */
+header{
+    height: 800px;
+    background-image: url(../images/banner/banner3.png);
+    width: 100%;
+}
+.main{
+    text-align: right;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.title{
+
+    padding: 50px;
+    text-align: right;
+    height: 50px;
+    margin-right: 20px;
+    color: aliceblue;
+    
+}
+.description{
+    margin-top: 25px;
+    font-weight: 400px;
+    font-size: 17px;
+    margin-bottom: 20px;
+margin-right: 60px;
+color: aliceblue;
+    
+    
+}
+.button{
+    margin-right: 70px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 15px;
+}
+.main-part{
+    max-width: 500px;
+    padding-left: 900px;
+    padding-top: 210px;
+
+}
+.failure-section{
+    display: flex;
+    
+}
+.i{
+    list-style: none;
+}
+.text-main{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.f{
+    margin-top: 100px;
+}
